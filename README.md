@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a third-year student at the University of Notre Dame studying Economics with minors in Data Science and Constitutional Studies. 
+
 <!--
 **nicolastsypin/nicolastsypin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
