@@ -4,12 +4,12 @@ My name is Nicolas Tsypin and I am a third-year student at the **University of N
 
 | Human Languages | Programming Languages |
 --------------------------------------------
-English (native)  | SAS (Beginner)
-Russian (native) | Java (Beginner)
- | Python (Intermediate)
- | HTML/CSS (Intermediate)
- | STATA (Intermediate)
- | R (just started learning)
+| English (native)  | SAS (Beginner) |
+| Russian (native) | Java (Beginner) |
+| | Python (Intermediate)|
+| | HTML/CSS (Intermediate) |
+| | STATA (Intermediate) |
+| | R (just started learning) |
  
 <!--
 **nicolastsypin/nicolastsypin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
