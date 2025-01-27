@@ -3,13 +3,14 @@
 My name is Nicolas Tsypin and I am a third-year student at the **University of Notre Dame.** Originally from Florida, I am now studying **Economics** with minors in **Data Science** and **Constitutional Studies.** With this blend of knowledge, I want to use quantitative skills and analysis to help others and solve big social problems.  
 
 | Human Languages | Programming Languages | 
--------------------|-------------------------
-| English (native)  | SAS (Beginner) |
-| Russian (native) | Java (Beginner) |
-| | Python (Intermediate)|
-| | HTML/CSS (Intermediate) |
-| | STATA (Intermediate) |
-| | R (just started learning) |
+-------------------:|:-------------------------
+|English (native)|SAS (Beginner)|
+|Russian (native)|Java (Beginner)|
+| |Python (Intermediate)|
+| |HTML/CSS (Intermediate)|
+| |STATA (Intermediate)|
+| |R (just started learning)|
+ 
 (![language meme](https://github.com/user-attachments/assets/ed59f64d-f890-48c3-8d72-30ed8d3ec7ba)
  
 <!--
