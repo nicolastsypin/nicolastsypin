@@ -2,7 +2,7 @@
 
 My name is Nicolas Tsypin and I am a third-year student at the **University of Notre Dame.** Originally from Florida, I am now studying **Economics** with minors in **Data Science** and **Constitutional Studies.** With this blend of knowledge, I want to use quantitative skills and analysis to help others and solve big social problems.  
 <div style="display: flex; justify-content: space-between;">
-  <div1>
+  <div>
     **Human Languages**                        
     - English (native)
     - Russian (native)
