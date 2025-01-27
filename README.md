@@ -1,18 +1,25 @@
-## Hello! 👋
+## Hello! 😁
 
-My name is Nicolas Tsypin and I am a third-year student at the **University of Notre Dame.** Originally from Florida, I am now studying **Economics** with minors in **Data Science** and **Constitutional Studies.** With this blend of knowledge, I want to use quantitative skills and analysis to help others and solve big social problems.  
+My name is Nicolas Tsypin and I am a third-year student at the **University of Notre Dame.** ☘️ Originally from Florida, I am now studying **Economics** with minors in **Data Science** and **Constitutional Studies.** With this blend of knowledge, I want to use quantitative skills and analysis to help others and solve big social problems. I am a lifelong learner and love playing soccer, solving crosswords, and beating my roommates in video games. 
 
-<img src="[image.png](https://admissions.nd.edu/assets/328579/850x478/campus_aerial.jpg)" width="400" height="200">
+<img src="https://admissions.nd.edu/assets/328579/850x478/campus_aerial.jpg" width="400" height="200">
 
-| Human Languages | Programming Languages | 
+### Technical Proficiency
+
+I have taken multiple coding courses at both the high school and undergraduate levels and am familiar with the basics of coding fundamentals and syntax, especially in Python. Through my economics coursework, I have also used Stata a lot and know how to use it for data exploration and analysis. 
+
+| Human Languages | Programming Languages |
 -------------------|-------------------------
-|English (native)|SAS (Beginner)|
-|Russian (native)|Java (Beginner)|
+|English (native)|Java (Beginner)|
+|Russian (native)|SAS (Beginner)|
 | |Python (Intermediate)|
-| |HTML/CSS (Intermediate)|
+| |HTML/CSS (Beginner)|
 | |STATA (Intermediate)|
-| |R (just started learning)|
- 
+| |R (just started learning!)|
+
+### Links 
+[LinkedIN](www.linkedin.com/in/nicolastsypin)  
+[Data Science Portfolio]()
 <!--
 **nicolastsypin/nicolastsypin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
