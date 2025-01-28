@@ -18,7 +18,7 @@ I have taken multiple coding courses at both the high school and undergraduate l
 | |R (just started learning!)|
 
 ### Links 
-[LinkedIN](www.linkedin.com/in/nicolastsypin)  
+[LinkedIN](https://www.linkedin.com/in/nicolastsypin)  
 [Data Science Portfolio](https://github.com/nicolastsypin/TSYPIN-data-science-portfolio)
 <!--
 **nicolastsypin/nicolastsypin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
