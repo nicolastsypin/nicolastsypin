@@ -17,6 +17,10 @@ I have taken multiple coding courses at both the high school and undergraduate l
 | |STATA (Intermediate)|
 | |R (just started learning!)|
 
+### Current Projects and Goals
+
+I am learning R through independent lab work in my Sport + Big Data class. I am also gaining further familiarity with Python in my Intro to Data Science Class. After this semester, I hope to be able to better integrate my technical skills into broader economic and data analysis. 
+
 ### Links 
 [LinkedIN](https://www.linkedin.com/in/nicolastsypin)  
 [Data Science Portfolio](https://github.com/nicolastsypin/TSYPIN-data-science-portfolio)
