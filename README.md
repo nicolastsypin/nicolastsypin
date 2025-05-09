@@ -1,6 +1,6 @@
 ## Hello! 😁
 
-My name is Nicolas Tsypin and I am a third-year student at the **University of Notre Dame.** ☘️ Originally from Florida, I am now studying **Economics** with minors in **Data Science** and **Constitutional Studies.** With this blend of knowledge, I want to use quantitative skills and analysis to help others and solve big social problems. I am a lifelong learner and love playing soccer, solving crosswords, and beating my roommates in video games. 
+My name is Nicolas Tsypin, and I am a senior at the **University of Notre Dame.** ☘️ Originally from Florida, I am now studying **Economics** with minors in **Data Science** and **Constitutional Studies.** With this blend of knowledge, I want to use quantitative skills and analysis to help others and solve big social problems. I am a lifelong learner and love playing soccer, solving crosswords, and beating my roommates in video games. 
 
 <img src="https://admissions.nd.edu/assets/328579/850x478/campus_aerial.jpg" width="400" height="200">
 
@@ -15,11 +15,11 @@ I have taken multiple coding courses at both the high school and undergraduate l
 | |Python (Intermediate)|
 | |HTML/CSS (Beginner)|
 | |STATA (Intermediate)|
-| |R (just started learning!)|
+| |R (Intermediate)|
 
 ### Current Projects and Goals
 
-I am learning R through independent lab work in my Sport + Big Data class. I am also gaining further familiarity with Python in my Intro to Data Science Class. After this semester, I hope to be able to better integrate my technical skills into broader economic and data analysis. 
+In the Spring of 2025, I developed my Python and R skills through my courses Intro to Data Science and Sport + Big Data. I have worked on data analysis and machine learning as well as creating regression models and graphs. I am also a research assistant in the economics department and use Stata to analyze data and run regressions. 
 
 ### Links 
 [LinkedIN](https://www.linkedin.com/in/nicolastsypin)  
